@@ -3,6 +3,7 @@ export JIANT_DATA_DIR=/home/zp489/scratch/data/bowman/jiant/
 export GLUE_DIR=/home/zp489/scratch/data/bowman/jiant/
 export NFS_PROJECT_PREFIX=/nfs/jsalt/exp/nkim
 export NFS_DATA_DIR=/nfs/jsalt/home/
+export JIANT_PATH=/home/zp489/code/bowman/jiant
 
 export WORD_EMBS_FILE=/scratch/zp489/vector_cache/fastText/crawl-200d-2M.vec
 export FASTTEXT_MODEL_FILE=.
